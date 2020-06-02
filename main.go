@@ -116,5 +116,7 @@ func main() {
 
 		fmt.Println("Wrong input")
 	}
+	
+	fmt.Println("successfully working")
 
 }
